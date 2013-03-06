@@ -1,5 +1,4 @@
-This is an extension for photologue with some iscape specific changes. 
+This project has been moved to:
 
-Both photologue and photologueext should be on the python path and placed in INSTALLED_APPS.
-
+https://github.com/ImaginaryLandscape/iscape-photologue-extensions
 
